@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5066ccff"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/ChooseLevel"
+            android:id="@+id/textChooseLevel"
+            style="@style/LevelChooserBlue"
+            android:background="@drawable/background_rectangle"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 1 "
+            android:id="@+id/idbtnLevel1"
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 2 "
+            android:id="@+id/idbtnLevel2"
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 3 "
+            android:id="@+id/idbtnLevel3"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 4 "
+            android:id="@+id/idbtnLevel4"
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 5 "
+            android:id="@+id/idbtnLevel5"
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 6 "
+            android:id="@+id/idbtnLevel6"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        >
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 7 "
+            android:id="@+id/idbtnLevel7"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 8 "
+            android:id="@+id/idbtnLevel8"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            style="@style/LevelChooserBlue"
+            android:text=" 9 "
+            android:id="@+id/idbtnLevel9"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

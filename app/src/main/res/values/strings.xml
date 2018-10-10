@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">16 puzzle</string>
+    <string name="NewGame">New Game</string>	
+	<string name="ContinueGame">Continue Game</string>
+	<string name="RandomLevel">Random Level</string>
+    <string name="Exit">Exit</string>
+	<string name="YouWin">You win!</string>
+	<string name="Turns">Turns:</string>
+	<string name="ChooseLevel">Choose level:</string>
+	<string name="Record">Record:</string>
+	<string name="WinGameTextPart1">Touch the screen for choose</string>
+	<string name="WinGameTextPart2">next level</string>
+</resources>

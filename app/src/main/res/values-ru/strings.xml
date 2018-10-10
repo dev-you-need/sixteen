@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Шишнашки</string>
+
+    <string name="NewGame">Новая игра</string>
+	<string name="ContinueGame">Продолжить игру</string>
+	<string name="RandomLevel">Случайный уровень</string>	
+    <string name="Exit">Выход</string>
+	<string name="YouWin">Победа!</string>
+	<string name="Turns">Ходов:</string>
+	<string name="ChooseLevel">Выберите уровень:</string>
+	<string name="Record">Рекорд:</string>
+	<string name="WinGameTextPart1">Коснитесь экрана для выбора</string>
+	<string name="WinGameTextPart2">следующего уровня</string>
+</resources>
